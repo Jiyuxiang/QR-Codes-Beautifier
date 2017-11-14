@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Java/jdk1.8.0_31/jre/lib/jfxswt.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/workspace2/QRCodeBeautifier/qrcode.jar"/>
+	<classpathentry kind="lib" path="E:/workspace2/QRCodeBeautifier/SourceForgeQRCode.jar"/>
+	<classpathentry kind="lib" path="E:/workspace2/QRCodeBeautifier/SwetakeQRCode.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
